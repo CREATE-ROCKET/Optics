@@ -28,3 +28,8 @@
 ### Sony 4Kカメラ
 
 ### Panasonic 4Kカメラ
+
+# 打ち上げ時の運用
+
+## C-61J 大島打ち上げ実験
+![コンパクトデジタルカメラ配置図](/fig/61jCompactCameras)
