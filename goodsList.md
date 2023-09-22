@@ -18,8 +18,8 @@
 送受信モジュールが1つずつ、計2つ入っていることを確認する。
 ![](/fig/listing/extender.jpg)
 
-上の送受信モジュールに給電用のケーブルが2本入っていることを確認する。
-![](/fig/listing/USB-AtoPlug.jpg)
+上の送受信モジュールに給電用のケーブルが2本入っていることを確認する。また，micro USBケーブルが1本入っていることを確認する．
+![](/fig/listing/USBAtoPlug.jpg)
 
 HDMIケーブルが計2本入っていることを確認する。片方はminiHDMI(オス)でもう片方はHDMI(オス)である。
 ![](/fig/listing/hdmi.jpg)  
